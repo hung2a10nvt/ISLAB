@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SHMhmBbHuR4yc9nZSnbY9BlVZv+ol8YdusZgxLwcXuIUWmlLIRb07IuU/QSybu7SmecTWxGKUwCz+2IhTK1mgQ==",
+  "success": true,
+  "projectFilePath": "D:\\ТГУ\\2 курс\\Интеллектуальные системы\\Lab1\\ISLAB\\IS1\\IS1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\FPT SHOP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
